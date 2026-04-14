@@ -1,0 +1,18 @@
+{
+  "model_path": "/workspace/projects/asr_project_src/runs/w2v2_csfleurs_hin_eng",
+  "csfleurs": {
+    "dataset": "csfleurs_xtts_test1",
+    "lang_pair": "hin-eng",
+    "num_scored": 418,
+    "num_skipped": 0,
+    "wer": 0.4034866828087167,
+    "cer": 0.18972339256274043
+  },
+  "openslr104_real": {
+    "dataset": "openslr104_hin_eng_real_test",
+    "num_scored": 3136,
+    "num_skipped": 0,
+    "wer": 0.7691366887346787,
+    "cer": 0.5916973527716175
+  }
+}

@@ -202,7 +202,7 @@ dependencies:
       - sentencepiece==0.2.1
       - shellingham==1.5.4
       - six==1.17.0
-      - smltcs==0.1.0
+      # - smltcs==0.1.0
       - soundfile==0.13.1
       - soxr==1.0.0
       - sympy==1.14.0
@@ -220,4 +220,4 @@ dependencies:
       - wer==0.1.0
       - xxhash==3.6.0
       - yarl==1.22.0
-prefix: /workspace/miniconda3/envs/meta
+# prefix: /workspace/miniconda3/envs/meta
