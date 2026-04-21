@@ -1,0 +1,9 @@
+{
+  "repo_id": "byan/cs-fleurs",
+  "source_subset": "mms/test",
+  "pair": "ben-eng",
+  "train_size": 300,
+  "test_size": 49,
+  "seed": 42,
+  "note": "This is a custom split created from CS-FLEURS ben-eng MMS test-only data, not an official train/test split."
+}
