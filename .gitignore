@@ -6,5 +6,5 @@ __pycache__/
 venv/
 __MACOSX/
 .DS_Store
-test/
+tests/
 runs/
