@@ -1,0 +1,22 @@
+# Core
+torch>=2.1
+transformers>=4.40
+datasets>=2.18
+accelerate>=0.29
+huggingface_hub>=0.22
+
+# Audio + metrics
+soundfile>=0.12
+librosa>=0.10
+jiwer>=3.0
+evaluate>=0.4
+
+# Tokenization (SpeechT5)
+sentencepiece>=0.1.99
+
+# Utils
+numpy>=1.24
+tqdm>=4.66
+pyyaml>=6.0
+librosa>=0.10
+torchcodec>=0.10

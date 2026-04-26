@@ -8,3 +8,9 @@ __MACOSX/
 .DS_Store
 tests/
 runs/
+test-SLR-hin/
+test-SLR-ben/
+finetuned_lora_fra_run2/
+finetuned_lora_fra/
+switchlingua_data/
+hineng_cs_1hr/
